@@ -1,0 +1,112 @@
+[
+	{
+		"question": "When life gets hard, how do you handle it?",
+		"answers": [
+		"I suppress my feelings and move on.",
+		"I try to take control and fix things.",
+		"Life never gets hard!",
+		"I laugh it off and keep the mood light.",
+		"I carry the burden so as to grow from it."
+		],
+		"weights": [5, 7, 3, 8, 5]
+	},
+	{
+		"question": "What do you want most from a partner?",
+		"answers": [
+		"Someone who will stay by my side.",
+		"Someone who listens to my worries.",
+		"Someone who is my perfect soulmate.",
+		"Someone who loves me the most.",
+		"Someone who protects me."
+		],
+		"weights": [7, 6, 3, 6, 10]
+	},
+	{
+		"question": "How do you primarily express yourself?",
+		"answers": [
+		"Through my lifestyle.",
+		"Through my achievements.",
+		"Through my affections.",
+		"Through humorous jokes.",
+		"By caring for others."
+		],
+		"weights": [4, 9, 3, 8, 6]
+	},
+	{
+		"question": "What do you admire most in others?",
+		"answers": [
+		"The ability to listen.",
+		"Obedience.",
+		"Dreaminess.",
+		"Humility.",
+		"Foresight."
+		],
+		"weights": [5, 10, 3, 7, 8]
+	},
+	{
+		"question": "How do you respond to arguments?",
+		"answers": [
+		"Give in to the other person. Let it pass.",
+		"I win.",
+		"I’ve never experienced conflict.",
+		"Diffuse it with humor.",
+		"Explain my wisdom from past experiences."
+		],
+		"weights": [5, 10, 3, 8, 9]
+	},
+	{
+		"question": "What is your dream?",
+		"answers": [
+		"To live on while cherishing the past.",
+		"To help my community succeed.",
+		"Everything is a dream.",
+		"To enjoy life.",
+		"To find stability."
+		],
+		"weights": [9, 8, 3, 8, 10]
+	},
+	{
+		"question": "How would other people describe you?",
+		"answers": [
+		"Quiet yet strong.",
+		"Reliable and powerful.",
+		"Romantic.",
+		"Fun and wild.",
+		"Cautious and conservative."
+		],
+		"weights": [7, 6, 3, 7, 10]
+	},
+	{
+		"question": "What’s your most notable quality?",
+		"answers": [
+		"I can endure.",
+		"I lead others.",
+		"I love.",
+		"I lift people up.",
+		"I understand sorrow."
+		],
+		"weights": [9, 10, 3, 8, 9]
+	},
+	{
+		"question": "What do you hope people remember about you?",
+		"answers": [
+		"That I engaged with my people.",
+		"That I lead others to success.",
+		"That I loved with my whole heart.",
+		"That I lightened the mood with my presence.",
+		"That I helped others avoid the pain I experienced."
+		],
+		"weights": [8, 10, 3, 9, 10]
+	},
+	{
+		"question": "What should love ideally center around?",
+		"answers": [
+		"Mutual respect.",
+		"Obedience and order.",
+		"Perfection.",
+		"Joyous, even through conflict.",
+		"Real—even if it hurts."
+		],
+		"weights": [10, 10, 3, 9, 10]
+	}
+]

@@ -38,7 +38,7 @@ buttons.forEach(button => {
             loadQuestion();
         } else {
             const topScore = scores.indexOf(Math.max(...scores));
-            window.location.href = './choices/choice' + (topScore + 1) + '.html';
+            window.location.href = '../choices/choice' + (topScore + 1) + '.html';
         }
     });
 });

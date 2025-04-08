@@ -6,6 +6,7 @@ body {
     align-items: center;
     background-color: hsl(0, 0%, 95%);
     font-family: Helvetica, sans-serif;
+    
 }
 
 .tree-text {
@@ -19,7 +20,7 @@ body {
 }
 
 .option-button {
-    padding: 12px 20px;
+    padding: 12px 30px;
     font-size: 1rem;
     font-weight: bold;
     color: #fff;

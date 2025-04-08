@@ -10,7 +10,32 @@ body {
 
 .quiz-container {
     text-align: center;
-    max-width: 800px;
+}
+
+
+.info-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    height: 80vh; /* or any height you want */
+}
+
+.info-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertical centering */
+    align-items: center;     /* horizontal centering */
+    font-family: Helvetica;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
 }
 
 .option-button {
@@ -34,25 +59,4 @@ body {
 .option-button:active {
     background-color: #2152ba;
     transform: scale(0.97);
-}
-
-.button-group {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-    justify-content: center; 
-    margin-top: 20px; 
-
-}
-
-.multiline-text {
-    padding-bottom: 20px;
-    font-size: 16px;
-}
-
-.home-text {
-    padding-bottom: 20px;
-    font-size: 16px;
-    text-align: justify;
-    width: 675px;
 }
